@@ -5,7 +5,7 @@
 You can find API Documentation for [ElasticSearch 5.3 here](https://www.elastic.co/guide/en/elasticsearch/reference/5.3/index.html).
 
 
-[Link to slides]()
+[Link to slides](https://docs.google.com/presentation/d/1PVvW5x0wKULwzrshSyDl92phEJEnWqSwExeXVzcyjfE/edit?usp=sharing)
 
 ## Setup Kibana to interact with local ElasticSearch indices
 
