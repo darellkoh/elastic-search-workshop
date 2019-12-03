@@ -14,7 +14,7 @@
 
 ## Get started with some basic ElasticSearch API endpoints
 
-To start playing around with Kibana, you can run these commands and hit the green ▶️ button.
+To start playing around with Kibana, run these commands and hit the green ▶️ button to make a request.
 
 `GET _cat/indices` - [gets all indices](https://www.elastic.co/guide/en/elasticsearch/reference/5.3/cat-indices.html)
 
@@ -33,7 +33,7 @@ TKTK add two more
 
 #### Setup
 
-Using the ElasticSearch [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/5.3/docs-bulk.html), create a new index with many documents so that we can begin playing with search queries.
+Using the ElasticSearch [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/5.3/docs-bulk.html), create a new index with many documents to have a searchable index.
 
 Copy and paste the fake restaurant review data [here](https://github.com/kickstarter/elastic-search-workshop/blob/master/resources/bulk_index_data.md) and paste it into the body of your bulk request.
 
