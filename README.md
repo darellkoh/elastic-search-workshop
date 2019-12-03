@@ -8,7 +8,7 @@
 
 1. Run `docker-compose -f docker-compose.yml -f ops/docker-compose.es-admin.yml up -d`
 2. Your local ElasticSearch will run on `localhost:9200` or `localhost:9202`
-3. You can visit `localhost:9202/_cat/indices` to verify there are local indices
+3. Visit `localhost:9202/_cat/indices` to verify there are local indices
 4. Go to `localhost:5601` to verify Kibana is running locally
 5. Click on 🔧`DevTools` on the left side navigation in Kibana
 
